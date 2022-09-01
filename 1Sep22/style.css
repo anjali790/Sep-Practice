@@ -34,10 +34,10 @@ body{
     width: 200px;
     height: 200px;
     padding: 5px;
-    animation-name: anjali;
-    animation-duration: 10s;
+    /* animation-name: anjali; */
+    /* animation-duration: 10s; */
     /* animation-iteration-count: 3; */
-    animation-iteration-count: infinite;
+    /* animation-iteration-count: infinite; */
     /* transition: transform 5s ease-in; */
     /* transition: transform 5s ease-out; */
     /* transition: transform 5s; */
